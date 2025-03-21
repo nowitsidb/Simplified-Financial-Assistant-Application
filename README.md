@@ -212,7 +212,7 @@ Before installing the application, ensure you have the following:
 1. **Clone or Download the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/financial-assistant.git
+   git clone https://github.com/nowitsidb/financial-assistant.git
    cd financial-assistant
    ```
 
