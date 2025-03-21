@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-green)
-![License](https://img.shields.io/badge/license-MIT-orange)
+
 
 A comprehensive, AI-powered financial analysis application designed to help users understand their credit profile, analyze loan affordability, plan their financial future, and receive personalized recommendations.
 
